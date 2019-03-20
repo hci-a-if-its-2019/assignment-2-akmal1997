@@ -16,37 +16,48 @@ If you choose to take a picture of your sketches, please make sure the texts are
 
 ### 2. Version Differences
 ```
-Please write a paragraph talking about the differences between the versions
+2.1 Original
+User can easily buy something without login and using fake identity
+
+2.2 Sketch 1
+More functionality added to the webshop. Such like the requirement to login to access for ordering things and the name checker (But, you don't put your SK ID since your SK ID is your username on login. And there is a name checker so, you cannot put a random name to the order form (Example: Your name is Abdul Dwipangga. You just only put "Abdul", "Dul", "Dwi", "Pangga", "Dwipangga", "Abdwip", and "Dwip" (Because of the limitation on the name only one word). You cannot put a fake name like "Adudul", "Utt", "Denise Keller", or "Sasuke" (Just like the choosing the name of your email if you register on ITS official mail or mail2.its.ac.id), and the warning of out of stock item
+
+2.3 Sketch 2
+The content same like Sketch 1, but i try to seperate the top navbar from the main page (Because of Sahabat Kereta Web Shop top navbar is same in all pages) and with seperate subdomains (Example: Sahabat Kereta Official Website is sahabatkereta.or.id, and the shop is shop.sahabatkereta.or.id)
+
+2.4 Sketch 3
+With more sophisticated UI, using float dialog, and some background and animations on backside
+
 ```
 
 ### 3. Selected Sketch
 ```
-Please write a paragraph telling us about which design you picked for Parts B and C 
-and why you selected it.
+I choose Sketch 2. Because, it's more user friendly and more less data to consume (Assume all the users don't have a fast internet connection or limited data quota). And then, the sketch 2 just only modified the original and add the strength to not using fake name or buy an out of stock item
 ```
 
 ### 4. Design Rationale
 ```
-Please write a paragraph expressing what you have learned from the contextual inquiry, 
-and how it is reflected in your design.
+Based of contextual inquiry, the developer must position himself as users (Especially the users that never or seldomly used an e-commerce before including the big e-commerce in Indonesia too). After that, the developer must listening a feedback from users. Because, the user will happy if the developer can develop the software that users want (Like simpler UI, easy to use, The item cannot bought by non members, etc)
 ```
 
 ## Part B: Assumptions
 ### 1. Hardware
 ```
-Please write what are the assumptions for the hardware on which your new design will be implemented, 
-such as: screen size, screen resolution, on touch screen, via physical buttons, 
-using accelerometer/gyroscope, using mouse, keyboard, etc. 
-Please be specific with the required hardware and any other assumptions, 
-like whether the screen is color or black and white, etch.
+Operating Systems: Windows
+Physical Input: Mouse, Keyboard, Touchscreen
+Screen Resolution: 1366x768 or higher
+Screen Size: 11.1 inch
+Computer with this specifications:
+- Intel Celeron Bay Trail
+- 4GB RAM
+- 500GB HDD
+- Windows 10 Home
+Internet Speed: Up To 1 MBPS (using tehtering)
 ```
 ### 2. Users
 ```
-Please write down the assumptions about your users. 
-What level of experience do you expect? 
-Who familiar with computers/gadget will they be? 
-What ages? 
-Are there any other factors about the users that will influence your design?
+1. Can using computer
+2. Sahabat Kereta Members
 ```
 
 ## Part C: Prototypes
