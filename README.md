@@ -68,4 +68,6 @@ Internet Speed: Up To 1 MBPS (using tehtering)
 ```
 
 ## Part C: Prototypes
-We will work on this part together during the class on **March 22nd, 2019**, 10:00 AM - 12.30 PM. Therefore, prior to the class please complete all the above parts (A & B) beforehand accordingly.
+### Freehand:
+![Freehand](https://raw.githubusercontent.com/hci-a-if-its-2019/assignment-2-akmal1997/master/media/2019-03-28.png)
+
