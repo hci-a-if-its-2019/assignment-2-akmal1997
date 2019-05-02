@@ -75,6 +75,8 @@ Link: https://projects.invisionapp.com/freehand/document/DzpYRg2f3
 
 Low Fidelity Prototype: https://projects.invisionapp.com/d/main#/console/17247107/357495873/preview
 
+High Fidelity Prototype: https://invis.io/GSRTBFZAHD3
+
 Video:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/7r2dNwArNhM/0.jpg)](http://www.youtube.com/watch?v=7r2dNwArNhM "Low Fidelity Prototype")
