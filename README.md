@@ -73,10 +73,12 @@ Internet Speed: Up To 1 MBPS (using tehtering)
 
 Link: https://projects.invisionapp.com/freehand/document/DzpYRg2f3
 
-Low Fidelity Prototype: https://projects.invisionapp.com/d/main#/console/17247107/357495873/preview
+Low Fidelity Prototype: https://invis.io/A4RTBYMWVGN
 
 High Fidelity Prototype: https://invis.io/GSRTBFZAHD3
 
 Video:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/7r2dNwArNhM/0.jpg)](http://www.youtube.com/watch?v=7r2dNwArNhM "Low Fidelity Prototype")
+
+[![High Fidelity Prototype](http://img.youtube.com/vi/8f0YvGWfhFQ/0.jpg)](http://www.youtube.com/watch?v=8f0YvGWfhFQ "High Fidelity Prototype")
